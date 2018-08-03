@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DC Metro Fare Calculator</string>
+
+    <string-array name="metroStations">
+        <item>Union Station</item>
+        <item>Judiciary Square</item>
+        <item>Noma</item>
+    </string-array>
+</resources>
